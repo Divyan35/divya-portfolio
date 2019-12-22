@@ -1,1 +1,1 @@
-# divya-portfolio
+# MyPortfolio
